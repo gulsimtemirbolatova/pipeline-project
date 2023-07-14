@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Welcome to Jenkins World'
                 sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
-                sh 'new update'
+                sh 'new update2'
             }
         }
     }
